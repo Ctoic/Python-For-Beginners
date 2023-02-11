@@ -63,5 +63,28 @@ Regular expressions are a powerful tool for pattern matching and text processing
 ## Advanced topics
 In this section, you'll learn about some advanced topics in Python programming, such as decorators, generators, and more. These topics are not necessary for beginners, but they are useful to know if you want to become a more advanced Python programmer.
 
+## Projects for beginners
+Guess the Number Game - A simple game where the user has to guess a randomly generated number within a specified range.
+
+To-Do List Application - An application where users can add and manage their to-do items. This project can cover topics such as reading and writing to files, using dictionaries, and working with functions.
+
+Mad Libs Generator - A fun project that generates a mad lib story based on user input. This project can cover topics such as string formatting and working with user input.
+
+Weather Application - An application that retrieves the current weather for a given location. This project can cover topics such as making API requests and working with JSON data.
+
+Rock, Paper, Scissors Game - A simple game where two players play rock, paper, scissors against each other. This project can cover topics such as control flow and making decisions based on user input.
+
+Tip Calculator - An application that calculates the tip for a given amount based on a specified percentage. This project can cover topics such as arithmetic operations and formatting output.
+
+Encryption/Decryption Tool - An application that encrypts and decrypts messages using a simple substitution cipher. This project can cover topics such as working with strings and characters.
+
+Hangman Game - A classic game where the user has to guess a word within a certain number of tries. This project can cover topics such as arrays and working with random numbers.
+
+I hope this list gives you some inspiration for your next Python project!
+
+
+
+
+
 
 
