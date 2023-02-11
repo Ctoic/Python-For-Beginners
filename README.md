@@ -1,6 +1,12 @@
 # Python for Beginners
 Welcome to Python for Beginners! This repository is dedicated to helping beginners learn the basics of Python programming. The aim of this repository is to provide a comprehensive introduction to the Python programming language and to help you develop the skills needed to become a confident and competent Python programmer.
 
+
+ file:///home/ctoic/Downloads/Grey%20and%20Blue%20Bold%20Photo%20Step%20by%20Step%20Digital%20Marketing%20Youtube%20Thumbnail.png
+
+
+
+
 Table of Contents
  1. Introduction to Python
  2. Setting up your development environment
