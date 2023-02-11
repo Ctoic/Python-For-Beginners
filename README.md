@@ -9,8 +9,7 @@ Welcome to Python for Beginners! This repository is dedicated to helping beginne
 
  
  
-![Alt text](file:///home/ctoic/Downloads/Grey%20and%20Blue%20Bold%20Photo%20Step%20by%20Step%20Digital%20Marketing%20Youtube%20Thumbnail.png![pyhton](https://user-images.githubusercontent.com/90936436/218278302-094832f1-75d6-46b2-a897-8106ec620a98.png)
-)
+![Alt text](file:///home/ctoic/Downloads/Grey%20and%20Blue%20Bold%20Photo%20Step%20by%20Step%20Digital%20Marketing%20Youtube%20Thumbnail.png![pyhton](https://user-images.githubusercontent.com/90936436/218278302-094832f1-75d6-46b2-a897-8106ec620a98.png))
 
 
 
