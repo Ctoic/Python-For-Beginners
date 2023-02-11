@@ -13,8 +13,8 @@ for i in string_input:
 print("Number of vowels: " , count)
 
 
-for i in range:
-    for j in range:
+for i in range(10):
+    for j in range(2):
         for k in range :
             print(i,j,k)
 
