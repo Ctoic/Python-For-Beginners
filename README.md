@@ -18,29 +18,6 @@ Welcome to Python for Beginners! This repository is dedicated to helping beginne
 
 
 
-
-
-
-
-
-
-
-
-
-
-file:///home/ctoic/Downloads/Grey%20and%20Blue%20Bold%20Photo%20Step%20by%20Step%20Digital%20Marketing%20Youtube%20Thumbnail.png
-
-
-
-
-
-
-
-
-
-
-
-
 Table of Contents
  1. Introduction to Python
  2. Setting up your development environment
