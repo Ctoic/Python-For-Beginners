@@ -54,6 +54,9 @@ If you want to prevent changes in areas_copy from also taking effect in areas, y
 ## Functions and modules
 Functions are reusable blocks of code that can be called from anywhere in your program. Modules are collections of related functions and data that can be imported into your program to be used.
 
+### Numpy 
+: rocket 
+
 ## Exception handling
 Exception handling is used to handle errors and unexpected conditions in your program. You'll learn about the try-except statement and how to use it to catch and handle exceptions.
 
